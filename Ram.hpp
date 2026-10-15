@@ -6,12 +6,12 @@ namespace pankey{
 
 		namespace Hardware{
 
-			long getFreeRam(){
-				return -1;
+			long long getFreeRam(){
+				return -1LL;
 			}
 
-			long getTotalRam(){
-				return -1;
+			long long getTotalRam(){
+				return -1LL;
 			}
 
 		}

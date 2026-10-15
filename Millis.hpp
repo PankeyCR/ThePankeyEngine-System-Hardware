@@ -6,8 +6,9 @@ namespace pankey{
 
 		namespace Hardware{
 
-			long millis(){
+			long long millis(){
 				// Implement CPU sleep functionality here
+				return -1LL;
 			}
 
 		}
